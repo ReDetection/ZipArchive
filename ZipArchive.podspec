@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ZipArchive"
-  s.version      = "1.5.0-rd"
+  s.version      = "1.5.1-rd"
   s.summary      = "An Objective C class for zip/unzip on iPhone and Mac OS X."
   s.description  = <<-DESC
 ZipArchive is an Objective-C class to compress or uncompress zip files, which is base on open source code "MiniZip".

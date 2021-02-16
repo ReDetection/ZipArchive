@@ -95,6 +95,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		36FF17FC25DBAA3B001014C5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		36FF17FD25DBAA3B001014C5 /* ZipArchive.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = ZipArchive.podspec; path = ../ZipArchive.podspec; sourceTree = "<group>"; };
+		36FF17FE25DBAA3B001014C5 /* CHANGELOG.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = CHANGELOG.md; path = ../CHANGELOG.md; sourceTree = "<group>"; };
+		36FF17FF25DBAA3B001014C5 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		AA747D9E0F9514B9006C5449 /* ZipArchive_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZipArchive_Prefix.pch; sourceTree = SOURCE_ROOT; };
 		AACBBE490F95108600F1A2B1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C908A96F160AC26D000395DB /* libZipArchive-mac.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libZipArchive-mac.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -194,6 +198,10 @@
 		0867D691FE84028FC02AAC07 /* ZipArchive */ = {
 			isa = PBXGroup;
 			children = (
+				36FF17FC25DBAA3B001014C5 /* README.md */,
+				36FF17FE25DBAA3B001014C5 /* CHANGELOG.md */,
+				36FF17FD25DBAA3B001014C5 /* ZipArchive.podspec */,
+				36FF17FF25DBAA3B001014C5 /* LICENSE */,
 				C99D691F164BCCF000B6A7C3 /* libz.dylib */,
 				08FB77AEFE84172EC02AAC07 /* Source */,
 				32C88DFF0371C24200C91783 /* Other Sources */,

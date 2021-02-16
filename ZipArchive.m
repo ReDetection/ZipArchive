@@ -181,7 +181,7 @@
 								  NULL,0,
 								  NULL,//comment
 								  Z_DEFLATED,
-								  self.compression );
+								  (int)self.compression);
 	}
 	else
 	{
@@ -194,7 +194,7 @@
 								  NULL,0,
 								  NULL,//comment
 								  Z_DEFLATED,
-								  self.compression,
+								  (int)self.compression,
 								  0,
 								  15,
 								  8,
